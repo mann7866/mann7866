@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Rohman</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Expert+Mentor+%40+Web+Dev;Laravel+%2B+React+Specialist;Building+Scalable+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Mentor+%40+Web+Dev;Laravel+%2B+React+Specialist;Building+Scalable+Solutions" />
 </p>
 
 <p align="center">
@@ -17,13 +17,16 @@
 
 ## About Me
 
-Saya adalah seorang **Fullstack Web Developer** dan **Mentor** yang berdedikasi untuk menjembatani celah antara kode yang sekadar "jalan" dengan kode yang "berkualitas".
+Saya adalah seorang **Fullstack Web Developer** sekaligus **Mentor Web Development** yang berkomitmen membangun solusi digital yang tidak hanya berjalan dengan baik, tetapi juga memiliki struktur yang kuat dan berkelanjutan.
 
-- 🚀 **Scalability:** Membangun sistem yang siap tumbuh bersama user.
-- 🧠 **Mentorship:** Membantu developer muda menguasai struktur backend yang **Clean & SOLID**.
-- ⚡ **Performance:** Optimasi sistem real-time dan arsitektur database.
-- 🏗️ **Architect:** Merancang sistem yang maintainable untuk jangka panjang.
+Saya percaya bahwa setiap tantangan dalam pengembangan sistem adalah proses pembelajaran untuk menjadi developer yang lebih baik, sistematis, dan visioner.
 
+### 🎯 Tujuan dalam Membangun Project
+
+- 🚀 **Scalability:** Mengembangkan sistem yang siap bertumbuh seiring meningkatnya kebutuhan pengguna.
+- 🧠 **Mentorship:** Membimbing developer dalam memahami arsitektur backend yang rapi, terstruktur, dan menerapkan prinsip **Clean Code & SOLID**.
+- ⚡ **Performance:** Mengoptimalkan performa aplikasi, terutama pada sistem real-time dan pengelolaan database.
+- 🏗️ **Architecture:** Merancang sistem yang maintainable, modular, dan mudah dikembangkan untuk jangka panjang.
 ---
 
 ## 🛠 My Tech Universe
@@ -81,12 +84,8 @@ Saya adalah seorang **Fullstack Web Developer** dan **Mentor** yang berdedikasi 
 ## 📈 Engineering Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mann7866&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mann7866&layout=compact&theme=tokyonight&border_radius=10" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mann7866&theme=tokyo-night&area=true&hide_border=true&border_radius=10"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mann7866&show_icons=true&theme=tokyonight&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mann7866&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -100,10 +99,7 @@ Saya adalah seorang **Fullstack Web Developer** dan **Mentor** yang berdedikasi 
 ## 📫 Let's Collaborate!
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:rohman040706@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/mann7866">

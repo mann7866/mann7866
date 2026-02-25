@@ -4,6 +4,11 @@
 
 <h1 align="center">Hi 👋, I'm Rohman</h1>
 <p align="center">
+  <a href="https://mannn-portofolio.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0A84FF?style=for-the-badge" />
+  </a>
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Mentor+%40+Web+Dev;Laravel+%2B+React+Specialist;Building+Scalable+Solutions" />
 </p>
 
@@ -24,7 +29,6 @@ Saya percaya bahwa setiap tantangan dalam pengembangan sistem adalah proses pemb
 ### 🎯 Tujuan dalam Membangun Project
 
 - 🚀 **Scalability:** Mengembangkan sistem yang siap bertumbuh seiring meningkatnya kebutuhan pengguna.
-- 🧠 **Mentorship:** Membimbing developer dalam memahami arsitektur backend yang rapi, terstruktur, dan menerapkan prinsip **Clean Code & SOLID**.
 - ⚡ **Performance:** Mengoptimalkan performa aplikasi, terutama pada sistem real-time dan pengelolaan database.
 - 🏗️ **Architecture:** Merancang sistem yang maintainable, modular, dan mudah dikembangkan untuk jangka panjang.
 ---

@@ -33,6 +33,47 @@ Saya percaya bahwa setiap tantangan dalam pengembangan sistem adalah proses pemb
 - 🏗️ **Architecture:** Merancang sistem yang maintainable, modular, dan mudah dikembangkan untuk jangka panjang.
 ---
 
+## 🚧 Project In Progress
+
+### 🏫 SMKS MUHI Administration System
+<p>
+  <img src="https://img.shields.io/badge/Laravel-Backend-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-Fetch-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOLID-Architecture-blue?style=for-the-badge"/>
+</p>
+
+### 🏢 SMKS MUHI BKK System
+<p>
+  <img src="https://img.shields.io/badge/Laravel-Backend-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20TS-Frontend-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOLID-Architecture-blue?style=for-the-badge"/>
+</p>
+
+### 🏭 TEFA Management System
+<p>
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20TS-Frontend-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20TypeScript-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
 ## 🛠 My Tech Universe
 
 ### 🌐 Frontend & Core Languages
